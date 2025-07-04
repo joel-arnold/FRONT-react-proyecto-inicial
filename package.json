@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start-class": "npm run dev",
+    "check": "npm run lint && echo 'Todo listo para la clase! 🎓'"
   },
   "dependencies": {
     "react": "^19.1.0",

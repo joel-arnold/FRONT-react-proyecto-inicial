@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "files.associations": {
+      "*.jsx": "javascriptreact"
+    },
+    "editor.quickSuggestions": {
+      "strings": "on"
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.vscode-eslint",
+      "bradlc.vscode-tailwindcss",
+      "formulahendry.auto-rename-tag",
+      "christian-kohler.path-intellisense",
+      "ms-vscode.vscode-typescript-next"
+    ]
+  }
+}
