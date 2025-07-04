@@ -23,7 +23,7 @@ function App() {
     <div className="app-container">
       <header className="app-header">
         <h1>🎓 Clase de React - UTN Frontend</h1>
-        <p>Material didáctico para la clase inicial de React (2:30 hs)</p>
+        <p>Material didáctico para las clases de React</p>
       </header>
 
       <nav className="app-nav">
